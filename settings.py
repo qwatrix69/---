@@ -1,0 +1,2 @@
+TOKEN = "TOKEN"
+ALLOWED_GROUPS = []
